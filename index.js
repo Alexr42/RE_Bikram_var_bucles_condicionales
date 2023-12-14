@@ -28,6 +28,8 @@ let incrementarDesp = 2;
 let resultadoDesp = incrementarDesp++;
 
 //9. - Crear variable incrementarAntes con valor 2 y asigna su valor con preincremento a resultadoAntes
+let incrementarAntes = 2
+let resultadoAntes = ++incrementarAntes
 
 //BUCLES
 //10. - Crear variable contarHasta10_2 con valor 0 e incrementar su valor con un bucle for hasta que se verifique que contarHasta10_2 === 10
