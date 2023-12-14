@@ -33,7 +33,8 @@ let resultadoAntes = ++incrementarAntes
 
 //BUCLES
 //10. - Crear variable contarHasta10_2 con valor 0 e incrementar su valor con un bucle for hasta que se verifique que contarHasta10_2 === 10
-
+let contarHasta10_2 = 0
+for(contarHasta10_2 = 0; contarHasta10_2 < 10; contarHasta10_2++){};
 
 //11. - Crear las variables postI y postJ con valor 0 a continuación cree un bucle que itere 11 veces.En cada iteración se deberá sumar al valor de postI el valor de postJ++
 
