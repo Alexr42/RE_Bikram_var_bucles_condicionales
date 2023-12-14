@@ -10,6 +10,7 @@ let booleano2 = false;
 const PI = 3.14;
 
 //4. - Crear variable tipo const de nombre TAU declarada con valor 2 veces PI
+const TAU = 2 * PI
 
 //BOOLEANOS
 //5. - Crear variable booleanoAnd cuyo valor sea la comparación booleana booleano1 and booleano2
