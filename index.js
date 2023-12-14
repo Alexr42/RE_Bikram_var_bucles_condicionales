@@ -14,6 +14,7 @@ const TAU = 2 * PI
 
 //BOOLEANOS
 //5. - Crear variable booleanoAnd cuyo valor sea la comparación booleana booleano1 and booleano2
+let booleanoAnd = booleano1 && booleano2;
 
 //6. - Crear variable booleanoNot cuyo valor sea la compracación booleana no booleano1
 
