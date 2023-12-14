@@ -41,8 +41,15 @@ let postI = 0;
 let postJ = 0;
 for(i = 0; i < 11; i++){
     postI += postJ++
-}
+};
+
 //12. - Crear la variable sumaPares con valor 0 a continuación crea un bucle que itere 10 veces(i < 10) si la iteración es par se deberá sumar a sumaPares el número de la iteración actual(i)
+let sumaPares = 0
+for (i = 0; i < 10; i++){
+    if (i % 2 === 0 ){
+        sumaPares += i
+    }
+}
 
 //ITERACIONES
 //VARIABLES
