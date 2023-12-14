@@ -58,6 +58,7 @@ for (i = 0; i < 10; i++){
 let variableValorNumerico = 3;
 
 //14. - Crear variable tipo const de nombre MiNombre declarada con valor tu nombre
+const MiNombre = "Alex"
 
 //15. - Crear variable tipo const de nombre MiNumeroFav declarada con valor numérico
 
