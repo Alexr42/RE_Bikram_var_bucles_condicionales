@@ -72,9 +72,10 @@ let booleanoOr = booleano1 || booleano2;
 let booleanoMix1 = (booleano1 && (TAU / 2 == PI)) || (variableValorNumerico  >= MiNumeroFav);
 
 //18. - Crear variable seisNoEsNueve cuyo valor sea la comparación booleana 6 no es estrictamente igual que 9
-let seisNoEsNueve = 6 !== 9
+let seisNoEsNueve = 6 !== 9;
 
 //19. - Crear variable booleanoMix2 cuyo valor sea la comparación booleana variableValorNumerico positivo(0 no incluido) o menor que - (MiNumeroFav * TAU)
+let booleanoMix2 =  variableValorNumerico > 0 ||  -(MiNumeroFav * TAU); 
 
 //OPERADORES
 
