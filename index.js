@@ -47,14 +47,15 @@ for(i = 0; i < 11; i++){
 let sumaPares = 0
 for (i = 0; i < 10; i++){
     if (i % 2 === 0 ){
-        sumaPares += i
-    }
-}
+        sumaPares += i;
+    };
+};
 
 //ITERACIONES
 //VARIABLES
 
 //13. - Crear variable tipo let de nombre variableValorNumerico declarada con un valor numérico cualquiera
+let variableValorNumerico = 3;
 
 //14. - Crear variable tipo const de nombre MiNombre declarada con valor tu nombre
 
