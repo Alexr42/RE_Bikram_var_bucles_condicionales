@@ -80,6 +80,7 @@ let booleanoMix2 =  variableValorNumerico > 0 ||  -(MiNumeroFav * TAU);
 //OPERADORES
 
 //20. - Crear variable valorSuma cuyo valor sea la suma de MiNumeroFav y variableValorNumerico
+let valorSuma = MiNumeroFav + variableValorNumerico;
 
 //21. - Crear variable valorResta cuyo valor sea la resta de MiNumeroFav y variableValorNumerico
 
