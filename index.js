@@ -86,6 +86,7 @@ let valorSuma = MiNumeroFav + variableValorNumerico;
 let valorResta = MiNumeroFav - variableValorNumerico;
 
 //22. - Crear variable valorMultiplicación cuyo valor sea la multiplicación de MiNumeroFav por variableValorNumerico
+let valorMultiplicacion = MiNumeroFav * variableValorNumerico;
 
 //23. - Crear variable valorDivisión cuyo valor sea la división de MiNumeroFav entre 3
 
