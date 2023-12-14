@@ -58,16 +58,18 @@ for (i = 0; i < 10; i++){
 let variableValorNumerico = 3;
 
 //14. - Crear variable tipo const de nombre MiNombre declarada con valor tu nombre
-const MiNombre = "Alex"
+const MiNombre = "Alex";
 
 //15. - Crear variable tipo const de nombre MiNumeroFav declarada con valor numérico
-const MiNumeroFav = 3
+const MiNumeroFav = 3;
 
 //BOOLEANOS
 
 //16. - Crear variable booleanoOr cuyo calor sea la comparación booleana booleano1 or booleano2
+let booleanoOr = booleano1 || booleano2;
 
 //17. - Crear variable booleanoMix1 cuyo valor sea la comparación booleana(booleano1 and(TAU / 2 sea igual a PI)) or(variableValorNumerico mayor o igual que MiNumeroFav)
+let booleanoMix1 = (booleano1 && (TAU / 2 == PI)) || (variableValorNumerico  >= MiNumeroFav)
 
 //18. - Crear variable seisNoEsNueve cuyo valor sea la comparación booleana 6 no es estrictamente igual que 9
 
