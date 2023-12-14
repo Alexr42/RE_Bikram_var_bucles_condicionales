@@ -17,9 +17,10 @@ const TAU = 2 * PI
 let booleanoAnd = booleano1 && booleano2;
 
 //6. - Crear variable booleanoNot cuyo valor sea la compracación booleana no booleano1
-let booleanoNot = !booleano1
+let booleanoNot = !booleano1;
 
 //7. - Crear variable booleanoMix0 cuyo valor sea la compración booleana(booleano1 or booleano2) and(booleano1 or(not booleano1 and not booleano2)
+let booleanoMix0 = (booleano1 || booleano2) && (booleano1 || (!booleano1 && !booleano2));
 
 //Operadores
 //8. - Crear variable incrementarDesp con valor 2 y asigna su valor con postincremento a resultadoDesp
