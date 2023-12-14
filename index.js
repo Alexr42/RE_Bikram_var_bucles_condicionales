@@ -89,6 +89,7 @@ let valorResta = MiNumeroFav - variableValorNumerico;
 let valorMultiplicacion = MiNumeroFav * variableValorNumerico;
 
 //23. - Crear variable valorDivisión cuyo valor sea la división de MiNumeroFav entre 3
+let valorDivision = MiNumeroFav / 3;
 
 //BUCLES
 
