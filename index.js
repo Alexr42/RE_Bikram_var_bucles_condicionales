@@ -61,6 +61,7 @@ let variableValorNumerico = 3;
 const MiNombre = "Alex"
 
 //15. - Crear variable tipo const de nombre MiNumeroFav declarada con valor numérico
+const MiNumeroFav = 3
 
 //BOOLEANOS
 
