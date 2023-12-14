@@ -69,9 +69,10 @@ const MiNumeroFav = 3;
 let booleanoOr = booleano1 || booleano2;
 
 //17. - Crear variable booleanoMix1 cuyo valor sea la comparación booleana(booleano1 and(TAU / 2 sea igual a PI)) or(variableValorNumerico mayor o igual que MiNumeroFav)
-let booleanoMix1 = (booleano1 && (TAU / 2 == PI)) || (variableValorNumerico  >= MiNumeroFav)
+let booleanoMix1 = (booleano1 && (TAU / 2 == PI)) || (variableValorNumerico  >= MiNumeroFav);
 
 //18. - Crear variable seisNoEsNueve cuyo valor sea la comparación booleana 6 no es estrictamente igual que 9
+let seisNoEsNueve = 6 !== 9
 
 //19. - Crear variable booleanoMix2 cuyo valor sea la comparación booleana variableValorNumerico positivo(0 no incluido) o menor que - (MiNumeroFav * TAU)
 
